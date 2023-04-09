@@ -1,0 +1,21 @@
+{
+  "id": s123,
+  "name": "Mary",
+  "score": 98.3,
+  "graduated": true,
+  "age": null,
+  "courseList": ["math","chinese"],
+  "pet": {
+    "name": "black",
+    "age": 5
+  },
+  "petList": [
+    {"name": "yellow",
+      "age": 8
+    },
+    {"name": "purple",
+      "age": 1
+    }
+  ]
+
+}
